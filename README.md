@@ -43,7 +43,7 @@ Perform a Basic Vulnerability Scan
 **Screenshot 5 – Vulnerability Summary** 
 **Screenshot 6 – Vulnerability Summary2**
 **Screenshot 7 – Detailed Vulnerability**
-**Screenshot 7 – Detailed Vulnerability2**
+**Screenshot 8 – Detailed Vulnerability2**
 
 
 ## Detailed Vulnerability Example
