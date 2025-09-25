@@ -3,9 +3,10 @@ Perform a Basic Vulnerability Scan
 
 
 ## Objective : Use free tools to identify common vulnerabilities on your computer.
-## Tools: OpenVAS Community Edition (free vulnerability scanner) or Nessus Essentials.
-## Deliverables: Vulnerability scan report with identified issues.
 
+## Tools: OpenVAS Community Edition (free vulnerability scanner) or Nessus Essentials.
+
+## Deliverables: Vulnerability scan report with identified issues.
 
 ## Tool Used : Nessus Essentials
 
@@ -54,11 +55,11 @@ Perform a Basic Vulnerability Scan
 - Solution : Use a valid SSL/TLS certificate signed by a trusted Certificate Authority (CA).  
 
 
-## Key Concepts :  Vulnerability scanning, risk assessment, CVSS, remediation, security tools
+## Key Concepts :  Vulnerability scanning, risk assessment, CVSS, remediation, security tools.
 - **Vulnerability Scanning**: Automated process to identify system weaknesses.  
 - **CVSS (Common Vulnerability Scoring System)**: Standard scoring system (0–10) to measure vulnerability severity.    
 - **Prioritization**: Critical and High severity issues should be fixed first.  
 
 
-**Outcome: Introductory vulnerability assessment experience and understanding of common PC risks.**
+## Outcome: Introductory vulnerability assessment experience and understanding of common PC risks.
 
